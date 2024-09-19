@@ -1,6 +1,6 @@
-# CAF Management System (Demo)
+# CAFE Management System (Demo)
 
-This project is a demo for a **CAF Management System**, focusing primarily on API development using Node.js for the backend, with MySQL for data management.
+This project is a demo for a **CAFE Management System**, focusing primarily on API development using Node.js for the backend, with MySQL for data management.
 
 ## Project Overview
 
